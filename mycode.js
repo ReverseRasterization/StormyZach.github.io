@@ -1,3 +1,1 @@
-<script>
 prompt("Hola!")
-</script>
